@@ -128,20 +128,6 @@
     "collection-list": {
       "type": "collection-list",
       "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "oreillers-ergonomiques",
-            "subheading": "",
-            "title": "Oreillers Ergonomiques",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "collection-2": {
           "type": "collection",
           "settings": {
@@ -172,7 +158,6 @@
         }
       },
       "block_order": [
-        "collection-1",
         "collection-2",
         "collection-3"
       ],
