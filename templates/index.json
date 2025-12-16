@@ -15,12 +15,12 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/aspi.jpg",
+            "image": "shopify://shop_images/starry-nigh-sky-shows-off-galaxy.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Dites adieu à la corvée du ménage.Notre robot aspirateur nettoie pour vous, chaque jour, sans surveillance.Plus de propreté, plus de confort, moins d’efforts.",
-            "title": "LEFANT M310 Ultra ",
+            "subheading": "Découvrez nos oreillers ergonomiques, masques de sommeil et lunettes anti-lumière bleue",
+            "title": "Bien-être et Sommeil de Qualité",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -68,7 +68,6 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/S1f086ee548044f06b0a4b7303f86a7b4t.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
