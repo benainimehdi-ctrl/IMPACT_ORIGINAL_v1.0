@@ -55,7 +55,7 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/aspi_1.jpg",
+            "image": "shopify://shop_images/dormir-avec-un-masque-pour-les-yeux.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -68,6 +68,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/bouchons-doreille-sommeil.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -80,7 +81,7 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Sb4825c1686b345958bf96d33b89837e9Y.webp",
+            "image": "shopify://shop_images/lunette-anti-lumiere-bleu-heureux-de-les-porter.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -93,7 +94,7 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Sbf8b131c2b984d7ca24152e2780f9b29p.webp",
+            "image": "shopify://shop_images/coussins-cervical-ergonomique-confortable-avant-de-se-coucher.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -235,7 +236,7 @@
         "title": "Avant/Après",
         "content": "<p>Des nuits plus calmes. Des réveils plus clairs.</p>",
         "before_image": "shopify://shop_images/woman-lays-in-bed-with-hand-over-her-eyes.jpg",
-        "after_image": "shopify://shop_images/happy-family.jpg",
+        "after_image": "shopify://shop_images/heureux-au-reveil.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
