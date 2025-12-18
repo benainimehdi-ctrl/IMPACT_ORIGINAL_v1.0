@@ -19,17 +19,17 @@
         "show_only_on_index": true,
         "show_only_for_visitors": true,
         "show_only_once": true,
-        "title": "Signup for our newsletter",
-        "button_text": "Subscribe",
-        "subtext": "Describe what your customers will receive when subscribing to your newsletter."
+        "title": "Inscrivez-vous et recevez 10% de réduction sur toute la boutique",
+        "button_text": "Inscription",
+        "subtext": ""
       }
     },
     "privacy-banner": {
       "type": "privacy-banner",
       "disabled": true,
       "settings": {
-        "privacy_bar_title": "Cookie policy",
-        "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.</p>"
+        "privacy_bar_title": "Cookie",
+        "privacy_bar_content": "<p>Nous utilisons des cookies et des technologies similaires pour vous offrir la meilleure expérience possible sur notre site web. Consultez notre Politique de confidentialité pour plus d'informations.<br/><br/></p>"
       }
     },
     "cart-drawer": {
