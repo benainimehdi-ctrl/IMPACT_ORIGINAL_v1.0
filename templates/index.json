@@ -228,6 +228,38 @@
         "button_text_color": ""
       }
     },
+    "video_hrMBgB": {
+      "type": "video",
+      "blocks": {
+        "play_Cb66F8": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_4mTJAH": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_Cb66F8",
+        "heading_4mTJAH"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Mehdi Ben_s Vidéo - Dec 19, 2025.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "before-after-image": {
       "type": "before-after-image",
       "settings": {
@@ -350,6 +382,7 @@
     "image-link-blocks",
     "collection-list",
     "Dawn-text",
+    "video_hrMBgB",
     "before-after-image",
     "press",
     "faq",
