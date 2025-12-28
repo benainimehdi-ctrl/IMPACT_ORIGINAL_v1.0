@@ -19,14 +19,14 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Oreillers ergonomiques, masques de sommeil et accessoires bien-être",
-            "title": "Des Nuits Plus Calmes, Des Réveils Plus Clairs",
+            "subheading": "Réveillez-vous reposé, même après des nuits difficiles",
+            "title": "Conçu pour les personnes qui se réveillent fatiguées ou avec des tensions au cou",
             "heading_tag": "h0",
-            "button_text": "Améliorer mon sommeil",
-            "button_link": "shopify://collections/all",
+            "button_text": "Acheter maintenant",
+            "button_link": "shopify://products/bamboo-fiber-pillow-slow-rebound-health-care-memory-foam-pillow-memory-foam-pillow-orthopedic-pillows-support-neckrelief",
             "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
+            "button_background": "#16a34a",
+            "button_text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30,
             "background": "",
@@ -47,6 +47,56 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "logo_list_VKxGGL": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_phmi4C": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-avec-phrase-en-dessous-paiement-s-curis.png",
+            "logo_width": 240,
+            "link": ""
+          }
+        },
+        "logo_HaCqpU": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-avec-phrase-livraison-suivie.png",
+            "logo_width": 240,
+            "link": ""
+          }
+        },
+        "logo_M3aM7T": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-1-couleur-unique-neutre-avec-phrase-en-dessous-satisfait-ou-rembours-30-jours.png",
+            "logo_width": 240,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_phmi4C",
+        "logo_HaCqpU",
+        "logo_M3aM7T"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
       }
     },
     "image-link-blocks": {
@@ -402,7 +452,7 @@
             "corner_styling": "soft",
             "header_text_color": "#000000",
             "text_color": "#000000",
-            "card_color": "#F9F9F9",
+            "card_color": "#f9f9f9",
             "stars_color": "",
             "arrows_color": "#000000",
             "transition_speed": 5,
@@ -431,6 +481,7 @@
   },
   "order": [
     "slideshow",
+    "logo_list_VKxGGL",
     "image-link-blocks",
     "collection-list",
     "Dawn-text",
