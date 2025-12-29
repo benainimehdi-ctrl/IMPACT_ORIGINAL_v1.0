@@ -49,6 +49,70 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "text_with_icons_ULCWxt": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_anqndy": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/shield.png",
+            "mobile_icon_width": 48,
+            "icon_width": 56,
+            "icon_background_type": "circle",
+            "icon_background": "#f0f0f0",
+            "icon_color": "",
+            "title": "Paiement 100 % sécurisé",
+            "content": ""
+          }
+        },
+        "item_zHa6qM": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/icon_free_returns.webp",
+            "mobile_icon_width": 48,
+            "icon_width": 56,
+            "icon_background_type": "circle",
+            "icon_background": "#f0f0f0",
+            "icon_color": "",
+            "title": "Satisfait ou remboursé 30 jours",
+            "content": ""
+          }
+        },
+        "item_mfNAni": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/icon_24_7_support.webp",
+            "mobile_icon_width": 48,
+            "icon_width": 56,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Livraison suivie",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_anqndy",
+        "item_zHa6qM",
+        "item_mfNAni"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -431,6 +495,7 @@
   },
   "order": [
     "slideshow",
+    "text_with_icons_ULCWxt",
     "image-link-blocks",
     "collection-list",
     "Dawn-text",
